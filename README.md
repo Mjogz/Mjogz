@@ -10,7 +10,6 @@
 - 🔍 **QA** com **6 anos de experiência** em qualidade de software.  
 - 💻 Atualmente na **TCS**, com foco em **parametrização de regras**  
 - 🎓 Formada em Pedagogia, sou apaixonada por unir educação e tecnologia para tornar o aprendizado mais acessível e dinâmico.
-- 💡 Apaixonada por **qualidade, dados, automação e inovação educacional**  
 
 ---
   
