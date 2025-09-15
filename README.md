@@ -21,7 +21,7 @@
 - **Testes:** JMeter | Postman | Thunder Client | Insomnia | Silk  
 - **Automação:** Cypress | Java (Rest Assured, JUnit)  
 - **IDEs:** VS Code | IntelliJ  
-- **Gestão/Versionamento:** GitHub | Confluence  
+- **Gestão/Versionamento:** GitHub   
 - **AWS:** Continuous Test (TaaC)
 
 ---
