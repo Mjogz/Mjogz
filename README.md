@@ -19,10 +19,10 @@
 ---
 ### 🛠️ Ferramentas e Tecnologias  
 - **Testes:** JMeter | Postman | Thunder Client | Insomnia | Silk  
-- **Automação:** Cypress | Java (Rest Assured, JUnit)  
-- **IDEs:** VS Code | IntelliJ  
-- **Gestão/Versionamento:** GitHub   
-- **AWS:** Continuous Test (TaaC)
+- **Automação:** Cypress | Java (Rest Assured, JUnit).  
+- **IDEs:** VS Code | IntelliJ.  
+- **Gestão/Versionamento:** GitHub.   
+- **AWS:** Continuous Test (TaaC) | Dynamo | Athena | CloudWatch | Glue.
 
 ---
 
@@ -35,10 +35,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
----
-**Ferramentas de Gestão e Versionamento:**  
-- 🔧 Git/GitHub | Jira | AWS  
 
 ---
 
