@@ -1,6 +1,6 @@
 # 👩‍💻 Maria Julia Ortiz Gimenez
 
-✨ *QA | Analista de Dados | Pedagoga*  
+✨ *QA | Pedagoga*  
 
 ---
 
