@@ -41,7 +41,7 @@
 ## 🚀 Projetos  
 
 - [📘 **EducaPlay**](https://mjogz.github.io/educa-play/) → Recursos educativos e quizzes interativos para auxiliar no aprendizado de computação.
-- - [📘 **Gerador de Senhas**](https://mjogz.github.io/gerador-senha/) → Gerador de senha simples, utilizando html e JS.  
+- [📘 **Gerador de Senhas**](https://mjogz.github.io/gerador-senha/) → Gerador de senha simples, utilizando html e JS.  
 
 
 ---
