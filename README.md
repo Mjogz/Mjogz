@@ -51,11 +51,4 @@
 
 ---
 
-## 📫 Contato  
-  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/maria-julia-ortiz-gimenez-8368ab147/))  
-
-
-
 ✨ *“Unindo tecnologia, qualidade e educação para transformar experiências de aprendizado.”*  
